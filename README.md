@@ -10,18 +10,14 @@ Technologies used in the project:
 
 <h2>🛠️ Run Steps:</h2>
 
-<p>1. Download projec via github page or via terminal </p>
+<p>1. Download project via github page or via terminal </p>
 
 ```bash
 git clone https://github.com/m29dev/EventApp773.git
 
 <p>2. Run app</p>
 
-<p>3. Use test account below</p>
-
-```bash
-git clone https://github.com/m29dev/EventApp773.git
-
+<p>3. Create a new account or use the test account below</p>
 
 <h2>Test Account</h2>
 
