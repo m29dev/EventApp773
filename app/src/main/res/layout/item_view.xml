@@ -1,0 +1,29 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/title_event_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="title_event_name"
+        android:textSize="27sp" />
+
+    <TextView
+        android:id="@+id/event_localization"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="event_localization"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/event_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="99999"
+        android:textSize="18sp" />
+
+</LinearLayout>
