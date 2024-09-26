@@ -8,7 +8,18 @@ Technologies used in the project:
 *   Kotlin
 *   Firebase
 
+<h2>🛠️ Run Steps:</h2>
 
+<p>1. Download projec via github page or via terminal </p>
+```bash
+git clone https://github.com/m29dev/EventApp773.git
+
+<p>2. Run app</p>
+
+<p>3. Use test account below</p>
+
+```bash
+git clone https://github.com/m29dev/EventApp773.git
 
 
 <h2>Test Account</h2>
