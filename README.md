@@ -14,6 +14,7 @@ Technologies used in the project:
 
 ```bash
 git clone https://github.com/m29dev/EventApp773.git
+```
 
 <p>2. Run app</p>
 
