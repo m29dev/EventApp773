@@ -1,5 +1,5 @@
 <h1 id="title">EventApp</h1>
-<p id="description">Mobile app for events - search for amazing events, subscribe or create them!</p>
+<h3 id="description">Mobile app for events - search for amazing events, subscribe or create them!</h3>
 
 <h2>💻 Built with</h2>
 
