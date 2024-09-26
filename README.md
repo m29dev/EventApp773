@@ -11,6 +11,7 @@ Technologies used in the project:
 <h2>🛠️ Run Steps:</h2>
 
 <p>1. Download projec via github page or via terminal </p>
+
 ```bash
 git clone https://github.com/m29dev/EventApp773.git
 
