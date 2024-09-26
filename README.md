@@ -20,7 +20,7 @@ git clone https://github.com/m29dev/EventApp773.git
 
 <p>3. Create a new account or use the test account below</p>
 
-<h2>Test Account</h2>
+<h2>🚀 Test Account</h2>
 
 <p>login:</p>
 
